@@ -17,3 +17,10 @@ Download the repository and run each code using:
 | colorfiltering.jpg  | output of Demo39 | 
 | noiseRemoval.jpg  | output of Demo41 | 
 | videos  | Video for Algorithm implementation  | 
+
+## Algorithms output
+![algorithms](algorithms.jpg)
+## Color filtering
+![filtering](colorfiltering.jpg)
+## BGFG segmentation
+![FGBF](noiseRemoval.jpg)
