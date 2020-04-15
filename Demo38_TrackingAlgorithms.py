@@ -11,7 +11,7 @@ import sys
 
 
 tracker_types = ['BOOSTING', 'MIL','KCF', 'TLD', 'MEDIANFLOW', 'GOTURN', 'MOSSE', 'CSRT']
-tracker_type = tracker_types[2]
+tracker_type = tracker_types[1]
 
 
 if tracker_type == 'BOOSTING':
@@ -52,9 +52,6 @@ while True:
     ret, frame = cap.read()
     if not ret:
         break
-    
-    # Start timer
-    timer = cv2.getTickCount()
 
     # Update tracker
     ret, bounder = tracker.update(frame)
