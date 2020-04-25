@@ -18,6 +18,9 @@ Download the repository and run each code using:
 | noiseRemoval.jpg  | output of Demo41 | 
 | videos  | Video for Algorithm implementation  | 
 | Demo46_TrackingMeanshift.py | Meanshift Live implementation |
+| Demo47_TrackingCamShift.py | Camshift Live implementation |
+| hueValues.png | Hue values for color specification |
+| outputcamshift.webm | Output video for CamShift |
 ## Algorithms output
 ![algorithms](algorithms.jpg)
 ## Color filtering
