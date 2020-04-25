@@ -6,6 +6,13 @@ Download the repository and run each code using:
 >
 > OpenCV == 3.4.1
 >
+
+For Meanshift, Camshift and Optical Flow algorithms:
+
+> Python == 3.7
+>
+> OpenCV == 4.2.0
+>
 ## Details
 | File | Information |
 |-------|------------|
