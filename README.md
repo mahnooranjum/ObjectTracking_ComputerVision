@@ -28,6 +28,8 @@ For Meanshift, Camshift and Optical Flow algorithms:
 | Demo47_TrackingCamShift.py | Camshift Live implementation |
 | hueValues.png | Hue values for color specification |
 | outputcamshift.webm | Output video for CamShift |
+| Demo48_TrackingLukasKanadeOpticalFlow.py | Global optical flow implementation |
+| outputlk.webm | Lucas Kanade optical flow output |
 ## Algorithms output
 ![algorithms](algorithms.jpg)
 ## Color filtering
